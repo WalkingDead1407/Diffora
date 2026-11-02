@@ -1,4 +1,4 @@
-# File Merge & Comparator
+# File Merge and Comparator
 
 A C++ project that compares and merges text files line by line.
 Built with object-oriented programming as a Project Based Learning (PBL) assignment.
